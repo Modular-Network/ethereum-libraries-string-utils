@@ -15,10 +15,9 @@ for utf-8 byte arrays in contract storage.
 
 - [Library Address](#library-address)
 - [License and Warranty](#license-and-warranty)
-- [How to install](#how-to-install)
-  - [Truffle Installation](#truffle-installation)
-    - [Manual install:](#manual-install)
-    - [Testing the library in truffle](#testing-the-library-in-truffle)
+- [Installation and Usage](#installation-and-usage)
+  - [How to install](#how-to-install)
+  - [Testing](#testing)
   - [solc Installation](#solc-installation)
     - [With standard JSON input](#with-standard-json-input)
     - [solc documentation](#solc-documentation)
