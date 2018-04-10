@@ -4,7 +4,7 @@ pragma solidity 0.4.21;
  * @title String & slice utility library for Solidity contracts.
  * @author Nick Johnson <arachnid@notdot.net>
  *
- * version 1.2.0
+ * version 1.2.1
  * Copyright 2016 Nick Johnson
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.

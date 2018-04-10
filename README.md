@@ -138,7 +138,7 @@ specific language governing permissions and limitations under the License.
 
 ### How to install
 
-`npm install ethereum-libraries-basic-math`
+`npm install ethereum-libraries-string-utils`
 
 ### Testing
 

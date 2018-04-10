@@ -1,6 +1,6 @@
 {
   "name": "ethereum-libraries-string-utils",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "String utility library for Ethereum smart contracts",
   "keywords": [
     "ethereum",
